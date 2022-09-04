@@ -5,7 +5,7 @@ body {
   margin: 10% 20%;
 }
 
-exp-header {
+.exp-header {
   text-align: center;
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
