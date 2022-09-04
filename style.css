@@ -12,3 +12,19 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: rgba(0,0,0, 0.1)
 }
+
+.edu-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: rgba(0,0,0, 0.1)
+}
+
+.skl-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+  background-color: rgba(0,0,0, 0.1)
+}
