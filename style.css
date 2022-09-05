@@ -1,30 +1,35 @@
 body {
-  background-color: #444444;
-  color: #dddddd;
+  background-image: url("https://i.pinimg.com/736x/be/78/05/be7805ef2512cd25bfcdec9e24ae8452.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: Arial, Helvetica, sans-seriff;
   margin: 10% 20%;
 }
 
 .exp-header {
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  border: 0.5rem outset pink;
+  border-radius: 4px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
 }
 
 .edu-header {
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  border: 0.5rem outset pink;
+  border-radius: 4px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
 }
 
 .skl-header {
-  text-align: center;
-  text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+  border: 0.5rem outset pink;
+  border-radius: 4px;
+  font: bold 1rem sans-serif;
+  margin: 2rem;
+  padding: 1rem;
+  outline-offset: 0.5rem;
 }
